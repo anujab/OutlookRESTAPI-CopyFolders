@@ -8,7 +8,7 @@ namespace OutlookRESTAPI_CopyFolders
 {
     class Constants
     {
-        internal const string ClientId = "e4159be4-deb9-473a-9a23-e54c05f1a01e";
+        internal const string ClientId = "ENTER_YOUR_CLIENT_ID_HERE";
 
         internal const string OutlookEndpoint = "https://outlook.office.com/";
 
